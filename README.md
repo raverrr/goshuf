@@ -14,3 +14,5 @@ Takes input by line on stdin, shuffles it, spits it back out
     hello
     doggy
 
+# installation
+    go get -u github.com/raverrr/goshuf
